@@ -1,13 +1,18 @@
-# OpenSourceNuclearWarhead
+# OpenSourceNuclearWarhead (OSNW) 💣 
 Your personal free and open source nuclear warhead for the everyday use! \o/
 
-## Contribution
-We invite everyone to contribute to our glorious repository and help us to build the first open source nuclear warhead!  
+## Contribution 💯 👌 🔥 
+We invite everyone to contribute to our glorious repository and help us build the first free open source nuclear warhead!  
 There are no rules. Make a PR and we will either accept or deny it.  
 
-## Mockups
+Good luck, have fun! 
 
-Here you see early concept arts of the Open Source Nuclear Warhead (OSNW):
-![nukehuhn1](https://raw.githubusercontent.com/spacehuhn/OpenSourceNuclearWarhead/master/nukehuhn.jpg)
-![nukehuhn2](https://raw.githubusercontent.com/spacehuhn/OpenSourceNuclearWarhead/master/nukehuhn2.jpg)
-![nukehuhn2](https://raw.githubusercontent.com/spacehuhn/OpenSourceNuclearWarhead/master/space_bomb.png)
+## Mockups 🖼  
+
+Here you see early concept arts of the Open Source Nuclear Warhead (OSNW) 🐔:  
+
+![nukehuhn1](https://raw.githubusercontent.com/spacehuhn/OpenSourceNuclearWarhead/master/img/nukehuhn.jpg)  
+
+![nukehuhn2](https://raw.githubusercontent.com/spacehuhn/OpenSourceNuclearWarhead/master/img/nukehuhn2.jpg)  
+
+![nukehuhn3](https://raw.githubusercontent.com/spacehuhn/OpenSourceNuclearWarhead/master/img/space_bomb.png)  
