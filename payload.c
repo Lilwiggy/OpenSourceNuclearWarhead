@@ -1,4 +1,5 @@
 #include <stdio.h>
-int main(){
+uint64_t main(){
 	puts("BOOM!");
+	return 0xDEADBEEF;
 }
