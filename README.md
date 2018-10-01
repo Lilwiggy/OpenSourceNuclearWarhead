@@ -1,6 +1,10 @@
 # OpenSourceNuclearWarhead (OSNW) 💣 
 Your personal free and open source nuclear warhead for the everyday use! \o/
 
+## Official Soundtrack Theme 🎶 
+
+[![](http://img.youtube.com/vi/KXSUEU7ISfQ/0.jpg)](http://www.youtube.com/watch?v=KXSUEU7ISfQ)  
+ 
 ## Contribution 💯 👌 🔥 
 We invite everyone to contribute to our glorious repository and help us build the first free open source nuclear warhead!  
 There are no rules. Make a PR and we will either accept or deny it.  
