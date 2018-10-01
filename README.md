@@ -16,11 +16,17 @@ new Nuke('Nuclear WarHead', {
 });
 ```
  Nuke
-  Nuke.type (optional)
-       string: The name of your nuke. Defualt "Atom bomb".
-   Nuke.options (optional)
-        options.interval (interval in milliseconds): Interval for your nuke to explode.
-        options.timeout (timeout in milliseconds): Timeout for your nuke to explode.
+  `Nuke.type (optional)`
+       type | What do
+------------ | -------------
+string | The name of your nuke. Default "Atom bomb".
+   `Nuke.options (optional)`
+          options.interval | What do
+------------ | -------------
+int | An interval for your nuke to explode in milliseconds.
+       options.timeout | What do
+------------ | -------------
+int | Timeout for your nuke to explode in milliseconds.
 ## Contribution 💯 👌 🔥 
 We invite everyone to contribute to our glorious repository and help us build the first free open source nuclear warhead!  
 There are no rules. Make a PR and we will either accept or deny it.  
