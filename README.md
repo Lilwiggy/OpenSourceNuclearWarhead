@@ -15,8 +15,7 @@ new Nuke('Nuclear WarHead', {
  timeout: 3000,
 });
 ```
-`class Nuke`
-  `Nuke.type (optional)`
+- class Nuke
 - Nuke.type (string)
 >The type of your nuke. Default atom bomb
 - Nuke.options (object)
