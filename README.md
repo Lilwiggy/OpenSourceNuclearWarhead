@@ -6,7 +6,21 @@ Your personal free and open source nuclear warhead for the everyday use! \o/
 [![](http://img.youtube.com/vi/KXSUEU7ISfQ/0.jpg)](http://www.youtube.com/watch?v=KXSUEU7ISfQ)
 [![](http://img.youtube.com/vi/mEtldt-FI8Y/0.jpg)](https://www.youtube.com/watch?v=mEtldt-FI8Y)
 
- 
+## Nuke.js
+How use:
+```js
+const Nuke = require('nuke.js');
+new Nuke('Nuclear WarHead', {
+ interval: 5000,
+ timeout: 3000,
+});
+```
+ Nuke
+  Nuke.type (optional)
+       string: The name of your nuke. Defualt "Atom bomb".
+   Nuke.options (optional)
+        options.interval (interval in milliseconds): Interval for your nuke to explode.
+        options.timeout (timeout in milliseconds): Timeout for your nuke to explode.
 ## Contribution 💯 👌 🔥 
 We invite everyone to contribute to our glorious repository and help us build the first free open source nuclear warhead!  
 There are no rules. Make a PR and we will either accept or deny it.  
